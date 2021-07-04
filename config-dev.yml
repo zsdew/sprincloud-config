@@ -1,2 +1,2 @@
-confitest:
-  test:123456789
+configtest:
+  info: version-1
